@@ -95,4 +95,4 @@ Migrations are in `database/migrations` and the seeder is `database/seeders/Data
 ## Links
 
 - GitHub: https://github.com/aaart005-en/tasks-laravel-crud
-- Hosted app: (add link after deployment)
+- Hosted app: https://tasks-crud-art.totalh.net
